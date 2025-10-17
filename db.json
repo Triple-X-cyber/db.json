@@ -1,0 +1,200 @@
+{
+  "settings": {
+    "name": "ကြေးမုံရတနာ",
+    "tagline": "အရသာရှိသော အလicious ချက်ပြုတ်မှုများ",
+    "owner": "အစ်ကို",
+    "address": "လူအဆင်ပြေ အလယ်ဗဟို",
+    "phone": "09-123456789",
+    "telegram": "@restaurant_mm",
+    "facebook": "facebook.com/restaurant"
+  },
+  "menu": {
+    "rice-1": {
+      "id": "rice-1",
+      "name": "ထမင်းမုံရတနာ",
+      "price": 1500,
+      "category": "rice",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=300&h=200&fit=crop",
+      "description": "အရသာရှိသော ထမင်းမုံရတနာ"
+    },
+    "rice-2": {
+      "id": "rice-2",
+      "name": "အုန်းတွင် ထမင်း",
+      "price": 2000,
+      "category": "rice",
+      "image": "https://images.unsplash.com/photo-1645112411341-6c4ee32510d8?w=300&h=200&fit=crop",
+      "description": "အရသာမြတ် အုန်းတွင်ထမင်း"
+    },
+    "rice-3": {
+      "id": "rice-3",
+      "name": "ဗူးကျည် ထမင်း",
+      "price": 1800,
+      "category": "rice",
+      "image": "https://images.unsplash.com/photo-1609501676725-7186f017a4b0?w=300&h=200&fit=crop",
+      "description": "အရသာရှိသော ဗူးကျည် ထမင်း"
+    },
+    "curry-1": {
+      "id": "curry-1",
+      "name": "ငါးကယ်ရီ",
+      "price": 3000,
+      "category": "curry",
+      "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e4e31?w=300&h=200&fit=crop",
+      "description": "အရသာရှိသော ငါးကယ်ရီ"
+    },
+    "curry-2": {
+      "id": "curry-2",
+      "name": "သုပ်ကယ်ရီ",
+      "price": 2500,
+      "category": "curry",
+      "image": "https://images.unsplash.com/photo-1565557623262-b51c2e991de0?w=300&h=200&fit=crop",
+      "description": "အရသာရှိသော သုပ်ကယ်ရီ"
+    },
+    "curry-3": {
+      "id": "curry-3",
+      "name": "ကြက်သားကယ်ရီ",
+      "price": 2800,
+      "category": "curry",
+      "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=300&h=200&fit=crop",
+      "description": "အရသာရှိသော ကြက်သားကယ်ရီ"
+    },
+    "snacks-1": {
+      "id": "snacks-1",
+      "name": "အုတ်အုတ်",
+      "price": 500,
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1551632786-ad1206995cfd?w=300&h=200&fit=crop",
+      "description": "လက်ကြက်နမ်း အုတ်အုတ်"
+    },
+    "snacks-2": {
+      "id": "snacks-2",
+      "name": "မုံရတနာခါ",
+      "price": 800,
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1585238341710-4913d3a3a48f?w=300&h=200&fit=crop",
+      "description": "အင်္ဂလိပ်မုံရတနာခါ"
+    },
+    "snacks-3": {
+      "id": "snacks-3",
+      "name": "စမ်းခါ",
+      "price": 1000,
+      "category": "snacks",
+      "image": "https://images.unsplash.com/photo-1571115176098-24ec42ed204d?w=300&h=200&fit=crop",
+      "description": "အရသာရှိသော စမ်းခါ"
+    },
+    "drink-1": {
+      "id": "drink-1",
+      "name": "လိမ္မော်သီးရည်",
+      "price": 600,
+      "category": "drink",
+      "image": "https://images.unsplash.com/photo-1585238341710-4913d3a3a48f?w=300&h=200&fit=crop",
+      "description": "အေးတဲ့ လိမ္မော်သီးရည်"
+    },
+    "drink-2": {
+      "id": "drink-2",
+      "name": "သကြားရည်",
+      "price": 500,
+      "category": "drink",
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e157?w=300&h=200&fit=crop",
+      "description": "အေးတဲ့ သကြားရည်"
+    }
+  },
+  "blog": {
+    "blog-1": {
+      "id": "blog-1",
+      "title": "ကြေးမုံရတနာ ကျောင်းမူလ",
+      "date": "2025-01-15",
+      "author": "အစ်ကို",
+      "excerpt": "ကျွန်ုပ်တို့၏ ကြေးမုံရတနာ ကျောင်းမူလ အကြောင်း အသေးစိတ်သိရှိနိုင်ပါသည်။",
+      "content": "ကြေးမုံရတနာသည် ရန်ကုန်ရှိ အကောင်းဆုံး အစားအိမ်များထဲမှ တစ်ခုဖြစ်ပါသည်။",
+      "image": "https://images.unsplash.com/photo-1495589871917-9686b7c09d6b?w=400&h=200&fit=crop"
+    },
+    "blog-2": {
+      "id": "blog-2",
+      "title": "အစားအဆောင်များ ကျော်လည်ကဲ့သို့",
+      "date": "2025-01-20",
+      "author": "အစ်ကို",
+      "excerpt": "ကျွန်ုပ်တို့၏ အစားအဆောင်များ ကျော်လည်ကဲ့သို့အကြောင်း ပိုသိရှိနိုင်ပါသည်။",
+      "content": "ကျွန်ုပ်တို့သည် အရသာရှိသော အစားအဆောင်များ ၀ယ်ယူရန် စိတ်ကြိုက်နေကြပါသည်။",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=200&fit=crop"
+    },
+    "blog-3": {
+      "id": "blog-3",
+      "title": "ကျေးဇူးတင် လည်ပတ်မှုများ",
+      "date": "2025-01-25",
+      "author": "အစ်ကို",
+      "excerpt": "ကျွန်ုပ်တို့၏ ကျေးဇူးတင် လည်ပတ်မှုများအကြောင်း ကျေးဇူးပြု စာဖတ်ပါ။",
+      "content": "ကျွန်ုပ်တို့ ဝန်ဆောင်မှုများအတွက် ကျေးဇူးတင်ပါသည်။",
+      "image": "https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=400&h=200&fit=crop"
+    }
+  },
+  "orders": [
+    {
+      "id": 1,
+      "customerName": "ကို မြင့်သန်း",
+      "phone": "09-123456789",
+      "email": "kyaw@example.com",
+      "address": "ရန်ကုန် မြို့ အမှတ်(၁)",
+      "items": [
+        {
+          "id": "rice-1",
+          "name": "ထမင်းမုံရတနာ",
+          "quantity": 2,
+          "price": 1500
+        },
+        {
+          "id": "curry-1",
+          "name": "ငါးကယ်ရီ",
+          "quantity": 1,
+          "price": 3000
+        }
+      ],
+      "totalAmount": 6000,
+      "status": "completed",
+      "orderDate": "2025-01-15",
+      "deliveryDate": "2025-01-15"
+    },
+    {
+      "id": 2,
+      "customerName": "မ နွေမြတ",
+      "phone": "09-987654321",
+      "email": "nwe@example.com",
+      "address": "မန္တလေး မြို့",
+      "items": [
+        {
+          "id": "rice-2",
+          "name": "အုန်းတွင် ထမင်း",
+          "quantity": 1,
+          "price": 2000
+        },
+        {
+          "id": "snacks-1",
+          "name": "အုတ်အုတ်",
+          "quantity": 3,
+          "price": 500
+        }
+      ],
+      "totalAmount": 3500,
+      "status": "pending",
+      "orderDate": "2025-01-22"
+    },
+    {
+      "id": 3,
+      "customerName": "ကို အောင်သုံး",
+      "phone": "09-111222333",
+      "email": "aung@example.com",
+      "address": "တိုင်းမြို့",
+      "items": [
+        {
+          "id": "curry-2",
+          "name": "သုပ်ကယ်ရီ",
+          "quantity": 2,
+          "price": 2500
+        }
+      ],
+      "totalAmount": 5000,
+      "status": "completed",
+      "orderDate": "2025-01-10",
+      "deliveryDate": "2025-01-11"
+    }
+  ]
+}
